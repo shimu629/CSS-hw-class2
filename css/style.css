@@ -1,0 +1,87 @@
+.card{
+
+   
+    width: 400px;
+    
+    box-sizing: border-box;
+    background-color: whitesmoke;
+    font-family: Arial;
+    padding: 0 0x ;
+    margin: 20px 0px;
+    display: inline-block;
+
+    
+}
+
+.card p{
+
+    color:rgb(148, 137, 122);
+}
+ 
+h5{
+
+    color: blanchedalmond;
+    padding:15px 25px ;
+}
+h3{
+    color:rgb(164, 98, 17);
+}
+h4{
+
+    padding: 0 50px;
+    
+}
+
+
+.card a2{
+    text-decoration: none;
+
+
+    
+    display:inline-block;
+    color:black;
+    padding : 0px 0px ;
+    
+    border: 2px solid black;
+     }
+
+     .card2{
+
+        padding: 10px 20px ;
+     }
+
+     .card a2:hover{
+        background-color:rgb(231, 147, 45);
+        color:white;
+        border-radius: 50px 50px ;
+        transition: 0.3s;
+
+     }
+
+     .redCard{
+
+   
+        width: 400px;
+        
+        box-sizing: border-box;
+        background-color: white;
+        font-family: Arial;
+        padding: 0 0x ;
+        margin: 10px 0px;
+        display: inline-block;
+    
+        
+    }
+    h2{
+
+        color: rgb(220, 131, 24);
+    }
+    
+     
+
+
+
+     
+ 
+
+
